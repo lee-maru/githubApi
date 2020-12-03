@@ -1,13 +1,15 @@
-Data Structure
 
-이 레파지토리는 개인적으로 공부하는 자료구조를 공부하고 저장하는 용도입니다. 
+Github API 를 이용한 이슈 관리 프로젝트 입니다. 
 
-1. LinkedList
+-기능-
 
-2. Stack (Array 로 구현)
+1. 이슈에 참여한 인원들을 확인하고, 총 이슈 참여율을 퍼센트로 나타낸다.
 
-3. Stack (ListNode 로 구현)
+-참고-
+githubAPI  https://github-api.kohsuke.org
+whiteShipStudy https://github.com/whiteship/live-study/issues/4
 
-4. Queue (Array, ListNode 로 구현)
+이 레파지토리는 개인적으로 공부하고 저장하는 용도입니다. 
 
+Email : uffortune@gmail.com 
 
